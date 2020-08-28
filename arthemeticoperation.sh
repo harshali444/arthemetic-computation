@@ -7,3 +7,5 @@ arthop=$((a+b*c))
 echo $arthop
 arthop1=$((a*b+c))
 echo $arthop1
+arthop2=$((c+a/b))
+echo $arthop2
